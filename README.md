@@ -159,10 +159,11 @@ Click  "Add New Agent"</p>
 Enter information for the new agent and click "Set Password" </p>
 
 <p>
-<img src="https://i.imgur.com/8Lo5L9t.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/dJyiAHZ.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click  "Save Changes"</p>
+The password may be changed through an email, on the spot, or require the agent to change at next login. <br/>
+Uncheck "Send the agent a password reset email", chose a password and note it, and uncheck "Require a password at next login" </p>
 
 <p>
 <img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
