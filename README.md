@@ -108,38 +108,72 @@ Click on "Members"
 <img src="https://i.imgur.com/9JXh7AG.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click the drop down fro select agent, and click you name, then click "Add"</p>
+Click the drop down from select agent, and click you name, then click "Add"</p>
 
 <p>
 <img src="https://i.imgur.com/Ho7MR27.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
 Click "Create Team" at the bottom </p>
-
 <p>
-<img src="https://i.imgur.com/9JXh7AG.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/kOERE2x.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click the drop down fro select agent, and click you name, then click "Add"</p>
-
+Click "Settings"</p>
 <p>
-<img src="https://i.imgur.com/9JXh7AG.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/II7dTRn.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click the drop down fro select agent, and click you name, then click "Add"</p>
+Click "Users"</p>
 
 <p>
-<img src="https://i.imgur.com/9JXh7AG.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/dvI2k4W.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click the drop down fro select agent, and click you name, then click "Add"</p>
+Uncheck "Require registration and login to create tickets" </p>
 
 <p>
-<img src="https://i.imgur.com/9JXh7AG.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click the drop down fro select agent, and click you name, then click "Add"</p>
+Click  "Save Changes"</p>
+<h3>
+Create Agents (Help Desk Workers) <h3/>
+  https://i.imgur.com/
+<p>
+<img src="https://i.imgur.com/Gt3aLzT.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Agents" (highlighted above) </p>
 
+<p>
+<img src="https://i.imgur.com/Ifvr6H5.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Add New Agent"</p>
 
+<p>
+<img src="https://i.imgur.com/MhUk1DU.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter information for the new agent and click "Set Password" </p>
+
+<p>
+<img src="https://i.imgur.com/8Lo5L9t.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Save Changes"</p>
+
+<p>
+<img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Save Changes"</p>
+
+<p>
+<img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Save Changes"</p>
 
 
