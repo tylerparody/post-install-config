@@ -17,6 +17,8 @@ This tutorial outlines configuration post installation of the open-source help d
 
 - osTicket installed
 <br/>
+Login to http://localhost/osTicket/scp/login.php, the local help desk page. <br/>
+
 [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html) are the permissions granted to Agents per Department that they have access to.
 <br/>
 <br/>
@@ -130,7 +132,8 @@ Click "Users"</p>
 <img src="https://i.imgur.com/dvI2k4W.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Uncheck "Require registration and login to create tickets" </p>
+Uncheck "Require registration and login to create tickets" <br/>
+This allows customers to create tickets</p>
 
 <p>
 <img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
@@ -166,15 +169,73 @@ The password may be changed through an email, on the spot, or require the agent 
 Uncheck "Send the agent a password reset email", chose a password and note it, and uncheck "Require a password at next login" </p>
 
 <p>
-<img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/xLj5qmn.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click  "Save Changes"</p>
+Click on "Access" </p>
 
 <p>
-<img src="https://i.imgur.com/zWwhZ11.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/W8wW8r6.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click  "Save Changes"</p>
+Click on Select Department and select the department "System Administrators" created earlier. <br/>
+Click on Select Role and select the role "Supreme Admin" created earlier. </p>
+
+<p>
+<img src="https://i.imgur.com/eFDzhG7.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click on "Teams" </p>
+
+<p>
+<img src="https://i.imgur.com/DxKTIEZ.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click Select Team and select "Level II support" created earlier, and click "Add". </p>
+
+<p>
+<img src="https://i.imgur.com/dJyiAHZ.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Create" at the bottom of the page</p>
+
+<p>
+<img src="https://i.imgur.com/MDHijxx.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Add New Agent" </p>
+
+<p>
+<img src="https://i.imgur.com/CoLEJrf.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter information for the new agent and click "Set Password"</p>
+
+<p>
+<img src="https://i.imgur.com/dJyiAHZ.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+The password may be changed through an email, on the spot, or require the agent to change at next login. <br/>
+Uncheck "Send the agent a password reset email", chose a password and note it, and uncheck "Require a password at next login" and click "Set" </p>
+
+<p>
+<img src="https://i.imgur.com/xN11diP.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Access" </p>
+
+<p>
+<img src="https://i.imgur.com/KmT1luc.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click on Select Department and select the department "System Administrators" created earlier. <br/>
+Click on Select Role and select the role "Supreme Admin" created earlier. </p>
+
+
+<p>
+<img src="https://i.imgur.com/dJyiAHZ.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Create" at the bottom of the page</p>
 
 
