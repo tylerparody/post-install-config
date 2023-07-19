@@ -142,7 +142,6 @@ This allows customers to create tickets</p>
 Click  "Save Changes"</p>
 <h3>
 Create Agents (Help Desk Workers) <h3/>
-  https://i.imgur.com/
 <p>
 <img src="https://i.imgur.com/Gt3aLzT.png" height="30%" width="30%" alt="IIS"/>
 </p>
@@ -219,23 +218,187 @@ The password may be changed through an email, on the spot, or require the agent 
 Uncheck "Send the agent a password reset email", chose a password and note it, and uncheck "Require a password at next login" and click "Set" </p>
 
 <p>
-<img src="https://i.imgur.com/xN11diP.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/m3BU8KD.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click "Access" </p>
+Click "Create" at the bottom of the page </p>
 
+<h3>
+Create Agents (Customers) <h3/>
+  
 <p>
-<img src="https://i.imgur.com/KmT1luc.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/l3lvb93.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click on Select Department and select the department "System Administrators" created earlier. <br/>
-Click on Select Role and select the role "Supreme Admin" created earlier. </p>
-
+Click "Agent" in the top right corner as seen above </p>
 
 <p>
-<img src="https://i.imgur.com/dJyiAHZ.png" height="30%" width="30%" alt="IIS"/>
+<img src="https://i.imgur.com/G3egXzV.png" height="30%" width="30%" alt="IIS"/>
 </p>
 <p>
-Click  "Create" at the bottom of the page</p>
+Click  "Users" </p>
+
+<p>
+<img src="https://i.imgur.com/oPJRGiN.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Add User" </p>
+
+<p>
+<img src="https://i.imgur.com/Tkmb9JN.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter the user's information and Click  "Add User" </p>
+
+<p>
+<img src="https://i.imgur.com/AZ8KpTM.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Users" to add another user</p>
+
+<p>
+<img src="https://i.imgur.com/xrc0UyA.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "AddUser"</p>
+
+<p>
+<img src="https://i.imgur.com/EiNFxQz.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter the user's information and Click  "Add User" </p>
+
+<h2>Create and SLA </h2>
+
+<p>
+<img src="https://i.imgur.com/Lqld3c8.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Admin Panel" at the top right of the page</p>
+
+<p>
+<img src="https://i.imgur.com/ZPy4m7O.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Manage"</p>
+
+<p>
+<img src="https://i.imgur.com/oD7zZBc.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "SLA"</p>
+
+<p>
+<img src="https://i.imgur.com/qgIQU5Z.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Add New SLA Plan"</p>
+
+<p>
+<img src="https://i.imgur.com/ZDh4TEg.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule followed <br/>
+Then Click  "Add Plan"</p>
+
+<p>
+<img src="https://i.imgur.com/gjpKOK4.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Add New SLA Plan"</p>
+
+<p>
+<img src="https://i.imgur.com/flYDGkj.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule followed <br/>
+Then Click  "Add Plan"</p>
+
+<p>
+<img src="https://i.imgur.com/nDXvYJo.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click  "Add New SLA Plan"</p>
+
+<p>
+<img src="https://i.imgur.com/qM3B4i9.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule followed <br/>
+Then Click  "Add Plan"</p>
+
+<p>
+<img src="https://i.imgur.com/dKMgGlB.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Help Topics" </p>
+
+<p>
+<img src="https://i.imgur.com/DZEtKhu.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Add New Help Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/DPOFvhs.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter the Help Topic Information and click "Add Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/d14CEfI.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Help Topics" </p>
+
+<p>
+<img src="https://i.imgur.com/fCOdUmI.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Add New Help Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/cIFYYOy.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter the Help Topic Information and click "Add Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/XKxYdt8.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Help Topics" </p>
+
+<p>
+<img src="https://i.imgur.com/mUeGCZg.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Add New Help Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/SyIijjy.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter the Help Topic Information and click "Add Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/8OvoFFt.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Help Topics" </p>
+
+<p>
+<img src="https://i.imgur.com/BIutgR9.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Click "Add New Help Topic" </p>
+
+<p>
+<img src="https://i.imgur.com/wFlmr7F.png" height="30%" width="30%" alt="IIS"/>
+</p>
+<p>
+Enter the Help Topic Information and click "Add Topic" </p>
+
+
 
 
