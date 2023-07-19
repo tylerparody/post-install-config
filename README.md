@@ -174,11 +174,24 @@ Uncheck "Send the agent a password reset email", chose a password and note it, a
 Click on "Access" </p>
 
 <p>
-<img src="https://i.imgur.com/W8wW8r6.png" height="65%" width="65%" alt="IIS"/>
+<img src="https://i.imgur.com/K050kMj.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Click on Select Department and select the department "System Administrators" created earlier. <br/>
-Click on Select Role and select the role "Supreme Admin" created earlier. </p>
+Under "Primary Department", Click on Select Department and select the department "System Administrators" created earlier. <br/>
+Click on "Select Role" and select the role "Supreme Admin" created earlier. <br/>
+Under "Extended Access" click "Select Department" and click "Support"</p>
+
+<p>
+<img src="https://i.imgur.com/24QB7Zy.png" height="65%" width="65%" alt="IIS"/>
+</p>
+<p>
+Under "Extended Access" click "Select Role" and click "Supreme Admin" <br/>
+
+<p>
+<img src="https://i.imgur.com/IqucqPw.png" height="65%" width="65%" alt="IIS"/>
+</p>
+<p>
+Then click "Save Changes"</p>
 
 <p>
 <img src="https://i.imgur.com/eFDzhG7.png" height="65%" width="65%" alt="IIS"/>
