@@ -179,7 +179,7 @@ Click on "Access" </p>
 <p>
 Under "Primary Department", Click on Select Department and select the department "System Administrators" created earlier. <br/>
 Click on "Select Role" and select the role "Supreme Admin" created earlier. <br/>
-Under "Extended Access" click "Select Department" and click "Support"</p>
+Under "Extended Access" click "Select Department" and click "Support" then click "Add"</p>
 
 <p>
 <img src="https://i.imgur.com/24QB7Zy.png" height="65%" width="65%" alt="IIS"/>
