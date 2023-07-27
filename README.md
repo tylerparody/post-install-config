@@ -32,7 +32,7 @@ Click "Admin Panel" at the top right</p>
 <img src="https://i.imgur.com/Fc9rlMe.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Click "Agents" 
+Click "Agents" (the one on the top row)
 </p>
 <p>
 <img src="https://i.imgur.com/wflwidw.png" height="65%" width="65%" alt="IIS"/>
