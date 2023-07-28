@@ -194,7 +194,7 @@ Under "Select Role" drop down menu and select the role "Supreme Admin" created e
 Under "Extended Access" click "Select Department" and click "Support" then click "Add" <br/>
 
 <p>
-<img src="https://i.imgur.com/IqucqPw.png" height="65%" width="65%" alt="IIS"/>
+<img src="https://i.imgur.com/1PXpIb1.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Then click "Save Changes"</p>
