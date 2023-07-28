@@ -193,12 +193,12 @@ Under "Extended Access" click "Select Department" and click "Support" then click
 Under "Select Role" drop down menu and select the role "Supreme Admin" created earlier.
 <br/>
 <p>
-<img src="https://i.imgur.com/1PXpIb1.png" height="65%" width="65%" alt="IIS"/>
+<img src="https://i.imgur.com/KTot1of.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Then click "Save Changes"</p>
 <p>
-<img src="https://i.imgur.com/KTot1of.png" height="65%" width="65%" alt="IIS"/>
+<img src="https://i.imgur.com/1PXpIb1.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Click on "Teams" </p>
@@ -207,19 +207,16 @@ Click on "Teams" </p>
 </p>
 <p>
 Click Select Team and select "Level II support" created earlier, and click "Add". </p>
-
 <p>
-<img src="https://i.imgur.com/dJyiAHZ.png" height="65%" width="65%" alt="IIS"/>
+<img src="https://i.imgur.com/JZq9BwG.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Click  "Create" at the bottom of the page</p>
-
 <p>
 <img src="https://i.imgur.com/MDHijxx.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Click "Add New Agent" </p>
-
 <p>
 <img src="https://i.imgur.com/CoLEJrf.png" height="65%" width="65%" alt="IIS"/>
 </p>
@@ -239,8 +236,8 @@ Uncheck "Send the agent a password reset email", chose a password and note it, a
 <p>
 Click "Create" at the bottom of the page </p>
 
-<h3>
-Create Agents (Customers) <h3/>
+<h2>
+Create Agents (Customers) <h2/>
   
 <p>
 <img src="https://i.imgur.com/l3lvb93.png" height="65%" width="65%" alt="IIS"/>
