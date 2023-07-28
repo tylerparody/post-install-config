@@ -186,25 +186,21 @@ Click on "Access" </p>
 Under "Primary Department" drop down menu, Click on Select Department and select the department "System Administrators" created earlier. <br/>
 Under "Select Role" drop down menu and select the role "Supreme Admin" created earlier. <br/>
 </p>
-
 <p>
 <img src="https://i.imgur.com/24QB7Zy.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Under "Extended Access" click "Select Department" and click "Support" then click "Add" <br/>
-
 <p>
 <img src="https://i.imgur.com/1PXpIb1.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Then click "Save Changes"</p>
-
 <p>
-<img src="https://i.imgur.com/eFDzhG7.png" height="65%" width="65%" alt="IIS"/>
+<img src="https://i.imgur.com/KTot1of.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
 Click on "Teams" </p>
-
 <p>
 <img src="https://i.imgur.com/DxKTIEZ.png" height="65%" width="65%" alt="IIS"/>
 </p>
