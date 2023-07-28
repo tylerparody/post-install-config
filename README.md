@@ -116,8 +116,8 @@ Click on "Members"
 <img src="https://i.imgur.com/9JXh7AG.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Click the drop down from select agent, and click you name, then click "Add"</p>
-
+Click the drop down from select agent, and click your name, </br>
+then click "Add"</p>
 <p>
 <img src="https://i.imgur.com/Ho7MR27.png" height="65%" width="65%" alt="IIS"/>
 </p>
@@ -183,15 +183,15 @@ Click on "Access" </p>
 <img src="https://i.imgur.com/K050kMj.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Under "Primary Department", Click on Select Department and select the department "System Administrators" created earlier. <br/>
-Click on "Select Role" and select the role "Supreme Admin" created earlier. <br/>
-Under "Extended Access" click "Select Department" and click "Support" then click "Add"</p>
+Under "Primary Department" drop down menu, Click on Select Department and select the department "System Administrators" created earlier. <br/>
+Under "Select Role" drop down menu and select the role "Supreme Admin" created earlier. <br/>
+</p>
 
 <p>
 <img src="https://i.imgur.com/24QB7Zy.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Under "Extended Access" click "Select Role" and click "Supreme Admin" <br/>
+Under "Extended Access" click "Select Department" and click "Support" then click "Add" <br/>
 
 <p>
 <img src="https://i.imgur.com/IqucqPw.png" height="65%" width="65%" alt="IIS"/>
