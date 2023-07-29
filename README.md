@@ -324,7 +324,7 @@ Click  "Add New SLA Plan"</p>
 <img src="https://i.imgur.com/flYDGkj.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule followed <br/>
+Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule to follow <br/>
 Then Click  "Add Plan"</p>
 
 <p>
@@ -337,7 +337,7 @@ Click  "Add New SLA Plan"</p>
 <img src="https://i.imgur.com/qM3B4i9.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule followed <br/>
+Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule to follow <br/>
 Then Click  "Add Plan"</p>
 
 <p>
@@ -412,6 +412,6 @@ Click "Add New Help Topic" </p>
 <p>
 Enter the Help Topic Information and click "Add Topic" </p>
 
-
+Proceed to the [ticket lifecycle.](https://github.com/tylerparody/ticket-lifecycle)
 
 
