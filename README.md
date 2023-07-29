@@ -311,7 +311,7 @@ Click  "Add New SLA Plan"</p>
 <img src="https://i.imgur.com/ZDh4TEg.png" height="65%" width="65%" alt="IIS"/>
 </p>
 <p>
-Fill out the information needed, Name the SLA Plan, enter a grace period, and the schedule followed <br/>
+Fill out the information needed, Name the SLA Plan, enter a grace period, and select the schedule to follow <br/>
 Then Click  "Add Plan"</p>
 
 <p>
